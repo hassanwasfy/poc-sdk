@@ -17,14 +17,17 @@ kotlin {
         minSdk = libs.versions.android.minSdk.get().toInt()
     }
 
+    val isAppleSilicon = System.getProperty("os.arch") == "aarch64"
+
 
     listOf(
         iosArm64(),
-        iosSimulatorArm64()
+        if (isAppleSilicon) iosSimulatorArm64() else iosX64()  // simulator depending on host
     ).forEach { iosTarget ->
         iosTarget.binaries.framework {
             baseName = "POC"
             isStatic = true
+            freeCompilerArgs += listOf("-Xbinary=bundleId=com.hassanwasfy.POC")
         }
     }
     
@@ -70,6 +73,27 @@ afterEvaluate {
             }
         }
     }
+}
+
+tasks.register<Exec>("assembleXCFramework") {
+    group = "build"
+    description = "Assemble XCFramework for CocoaPods"
+
+    dependsOn(
+        "linkReleaseFrameworkIosArm64",
+        if (System.getProperty("os.arch") == "aarch64") "linkReleaseFrameworkIosSimulatorArm64" else "linkReleaseFrameworkIosX64"
+    )
+
+    commandLine(
+        "xcodebuild",
+        "-create-xcframework",
+        "-framework",
+        "build/bin/iosArm64/releaseFramework/POC.framework",
+        "-framework",
+        if (System.getProperty("os.arch") == "aarch64") "build/bin/iosSimulatorArm64/releaseFramework/POC.framework" else "build/bin/iosX64/releaseFramework/POC.framework",
+        "-output",
+        "build/POC.xcframework"
+    )
 }
 
 
