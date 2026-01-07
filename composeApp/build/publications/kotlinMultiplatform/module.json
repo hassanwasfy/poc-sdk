@@ -73,20 +73,6 @@
           }
         },
         {
-          "group": "org.jetbrains.androidx.lifecycle",
-          "module": "lifecycle-viewmodel-compose",
-          "version": {
-            "requires": "2.9.6"
-          }
-        },
-        {
-          "group": "org.jetbrains.androidx.lifecycle",
-          "module": "lifecycle-runtime-compose",
-          "version": {
-            "requires": "2.9.6"
-          }
-        },
-        {
           "group": "io.ktor",
           "module": "ktor-client-core",
           "version": {
@@ -126,11 +112,11 @@
         {
           "name": "composeApp-metadata.jar",
           "url": "poc-sdk-0.2.0.jar",
-          "size": 10663,
-          "sha512": "7472ab2bb82097990a6b256b347295e732134ee0a905df30020cf6e0a1060344d3a0be49710d0391dcdf528236db1c797f3ee2e1c4f9596ed0a1e0ae448f3436",
-          "sha256": "6609dd09d5aa037ca7b45bda6ebf70caec39c30e801009933d98234c7522d948",
-          "sha1": "40000311b75dfbfc755488450bbdb4aab1b61401",
-          "md5": "af9ac479d14b51169d2240383c29d908"
+          "size": 10632,
+          "sha512": "0e1122fcc9979ab3020d91bcad5fb19d3321a5b4729e09fa5f73d5d0fcb437f31e2025765ca04120e8b7feeaa52fa9eeb2ee4c3e03d2181febe7a968eab7f624",
+          "sha256": "ce0a733941f9b41af0dd09f136f56d21af4821a82a8a03212f34dc8c39cff931",
+          "sha1": "9ab2a3824942a77baa3e8f89a5198fd1cd302e8c",
+          "md5": "7479b55734532d8c570bad99b4577155"
         }
       ]
     },

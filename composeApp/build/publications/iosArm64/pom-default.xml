@@ -60,18 +60,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>org.jetbrains.androidx.lifecycle</groupId>
-      <artifactId>lifecycle-viewmodel-compose-uikitarm64</artifactId>
-      <version>2.9.6</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.jetbrains.androidx.lifecycle</groupId>
-      <artifactId>lifecycle-runtime-compose-uikitarm64</artifactId>
-      <version>2.9.6</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>io.ktor</groupId>
       <artifactId>ktor-client-core-iosarm64</artifactId>
       <version>2.3.7</version>

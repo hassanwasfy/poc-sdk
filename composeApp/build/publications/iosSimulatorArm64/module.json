@@ -82,20 +82,6 @@
           }
         },
         {
-          "group": "org.jetbrains.androidx.lifecycle",
-          "module": "lifecycle-viewmodel-compose",
-          "version": {
-            "requires": "2.9.6"
-          }
-        },
-        {
-          "group": "org.jetbrains.androidx.lifecycle",
-          "module": "lifecycle-runtime-compose",
-          "version": {
-            "requires": "2.9.6"
-          }
-        },
-        {
           "group": "io.ktor",
           "module": "ktor-client-core",
           "version": {
@@ -128,11 +114,11 @@
         {
           "name": "composeApp-iosSimulatorArm64Main.klib",
           "url": "poc-sdk-0.2.0.klib",
-          "size": 55930,
-          "sha512": "8e67e649c64e7d681bd945e42f49ba54f3e5ca70f83eb402e03fb0d464ece78cafae4c61b4c453db492c807b4f473095211f198fbd3bbcdbc8d6321e03e1dd67",
-          "sha256": "322b02fa57cbe0d2eceed9d6d917508b78dbc4a9c3b75fe1464c571fd15b7886",
-          "sha1": "e733aba776371ded47ecf77a6de2cd0f7dc30fa0",
-          "md5": "7d2c20ef22e09257434533e5e2ec279b"
+          "size": 55924,
+          "sha512": "07116561a917decbe25737e378a6b458bb752363d961fbf7d1972a3912ccbab5a3ea6a326828bb5f9ce543b0d999b105f11f06ab9510a7435c37d6f83fdcf60e",
+          "sha256": "5a8d289e0cc8fc6b39ba80cb4434bafac0bbc70b3526fd30cd1fbfbf3e438c8f",
+          "sha1": "bd28e017e9364a107b7f51d547b654b7ec1eb6a8",
+          "md5": "830c60f0dea79a432b18a58bd6cb6b4c"
         }
       ]
     },
@@ -228,20 +214,6 @@
           }
         },
         {
-          "group": "org.jetbrains.androidx.lifecycle",
-          "module": "lifecycle-viewmodel-compose",
-          "version": {
-            "requires": "2.9.6"
-          }
-        },
-        {
-          "group": "org.jetbrains.androidx.lifecycle",
-          "module": "lifecycle-runtime-compose",
-          "version": {
-            "requires": "2.9.6"
-          }
-        },
-        {
           "group": "io.ktor",
           "module": "ktor-client-core",
           "version": {
@@ -275,10 +247,10 @@
           "name": "composeApp.kotlin_resources.zip",
           "url": "poc-sdk-0.2.0-kotlin_resources.kotlin_resources.zip",
           "size": 1268,
-          "sha512": "bafd3500098db40b19bd8b03fc3e05d62c0ab924fa78413445d164347af7db5997f0f18e8cca63f7648589a8af7726162ff134c73d96440c6f2d537612c91319",
-          "sha256": "1487c142b4b64d22aa794c27f62cf3ae718d62f9d5e3e4c6d74a0ac77f307ea7",
-          "sha1": "e1a7da5b98a8bbfca215accbcf33771a48a7e3d3",
-          "md5": "67dd8ca62a91d6102d5fdd2d992d211b"
+          "sha512": "43887700a2fc957e9e03e5dc4cb36c0a0606ea9ed52d49b60fdee12200bf54164cafbe6086f40231f90325e6571687003d4e74eb20445d8990be690be47eba97",
+          "sha256": "5c5277ee750cb490323f1802095aee842221e5d19672402c21afb4496dd4b4dd",
+          "sha1": "cf9e1b1e680d86159fd65c3e9da57c43feb8ddfa",
+          "md5": "a6c8b0146a98f16399d44e0c66fd88d9"
         }
       ]
     },
@@ -349,20 +321,6 @@
           }
         },
         {
-          "group": "org.jetbrains.androidx.lifecycle",
-          "module": "lifecycle-viewmodel-compose",
-          "version": {
-            "requires": "2.9.6"
-          }
-        },
-        {
-          "group": "org.jetbrains.androidx.lifecycle",
-          "module": "lifecycle-runtime-compose",
-          "version": {
-            "requires": "2.9.6"
-          }
-        },
-        {
           "group": "io.ktor",
           "module": "ktor-client-core",
           "version": {
@@ -396,10 +354,10 @@
           "name": "composeApp-iossimulatorarm64-metadata.jar",
           "url": "poc-sdk-0.2.0-metadata.jar",
           "size": 2697,
-          "sha512": "667dc472c1a9c613605a830b06ee645328380c22bd78c6d56d244e2aafb3a97ff4bfe154ec169e7774a321df991d3a8ef3bd7a15b12d14c26b6b040a1767e9a0",
-          "sha256": "aa64fc4bb318d0214ddbd2f4d92e97c935b20f6942925c565511ef9402889723",
-          "sha1": "bd9329253bf9d68126a19e7dee307a53ec584067",
-          "md5": "9f2d0f7340a6c182abf6ada8c7d571ba"
+          "sha512": "d2a79e1b06ef18a55dec0bbca3684306add3bfc464d62960348126c771cd5ed665649944aa807b2381fd29f08f2eff2621df72035a519ff6b6f852ed0e89e66c",
+          "sha256": "25dd3a5cd51730a93a68f29cae27de8d7a97ddf807e00f2a055db78500a6ab64",
+          "sha1": "3c2df73fb8b8fd0e22bb1c86134f649a6866ff12",
+          "md5": "9fdec62016b3449ccc81cefc741eb920"
         }
       ]
     }

@@ -36,6 +36,18 @@
       <scope>runtime</scope>
     </dependency>
     <dependency>
+      <groupId>org.jetbrains.androidx.lifecycle</groupId>
+      <artifactId>lifecycle-viewmodel-compose</artifactId>
+      <version>2.9.6</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.jetbrains.androidx.lifecycle</groupId>
+      <artifactId>lifecycle-runtime-compose</artifactId>
+      <version>2.9.6</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
       <groupId>org.jetbrains.compose.runtime</groupId>
       <artifactId>runtime</artifactId>
       <version>1.9.3</version>
@@ -69,18 +81,6 @@
       <groupId>org.jetbrains.compose.components</groupId>
       <artifactId>components-ui-tooling-preview-android</artifactId>
       <version>1.9.3</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.jetbrains.androidx.lifecycle</groupId>
-      <artifactId>lifecycle-viewmodel-compose</artifactId>
-      <version>2.9.6</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.jetbrains.androidx.lifecycle</groupId>
-      <artifactId>lifecycle-runtime-compose</artifactId>
-      <version>2.9.6</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>

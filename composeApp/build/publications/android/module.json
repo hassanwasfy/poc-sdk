@@ -84,6 +84,20 @@
           }
         },
         {
+          "group": "org.jetbrains.androidx.lifecycle",
+          "module": "lifecycle-viewmodel-compose",
+          "version": {
+            "requires": "2.9.6"
+          }
+        },
+        {
+          "group": "org.jetbrains.androidx.lifecycle",
+          "module": "lifecycle-runtime-compose",
+          "version": {
+            "requires": "2.9.6"
+          }
+        },
+        {
           "group": "org.jetbrains.compose.runtime",
           "module": "runtime",
           "version": {
@@ -123,20 +137,6 @@
           "module": "components-ui-tooling-preview",
           "version": {
             "requires": "1.9.3"
-          }
-        },
-        {
-          "group": "org.jetbrains.androidx.lifecycle",
-          "module": "lifecycle-viewmodel-compose",
-          "version": {
-            "requires": "2.9.6"
-          }
-        },
-        {
-          "group": "org.jetbrains.androidx.lifecycle",
-          "module": "lifecycle-runtime-compose",
-          "version": {
-            "requires": "2.9.6"
           }
         },
         {
