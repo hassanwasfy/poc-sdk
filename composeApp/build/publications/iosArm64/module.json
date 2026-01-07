@@ -114,11 +114,11 @@
         {
           "name": "composeApp-iosArm64Main.klib",
           "url": "poc-sdk-0.2.0.klib",
-          "size": 55853,
-          "sha512": "be220672d64161fb40db1e069ac35a1e742135f70daeea75f44ee9ba576992076c0c0f372e351476cfa7ca678470ba4b6e19ee7500a2d16ad91102e30f2b4602",
-          "sha256": "a447da7d4c53a02a6c892fa9de0d5726b0a37d63975bcdc764153c3e9fa5435f",
-          "sha1": "1c18b8e93ac75f8fcf149d46d87d6b686fc49f1c",
-          "md5": "da12b85ee8d7892ba7f040761f4d63a9"
+          "size": 52248,
+          "sha512": "6110601c48b923c02aedcf55747696a1fd5ca6c29a3de6986422dcec670d486857db8bd48fe07874fc467e226a184ef943af30853de98f72dcba3fa090f6abb2",
+          "sha256": "31fde809454cd7406eb7e3a78402a4b763e661cd55eb68fe65c680130951043e",
+          "sha1": "0c2278dbe27b15080fd7155faa6c7e1df1878234",
+          "md5": "81e73be81265e0f359e39516fccea411"
         }
       ]
     },
@@ -137,11 +137,11 @@
         {
           "name": "composeApp-iosarm64-sources.jar",
           "url": "poc-sdk-0.2.0-sources.jar",
-          "size": 9785,
-          "sha512": "54d96550bdd6c1885a66385506df8ecf1797593d06c6cdcd2e63f37dfbadde45c4c074f7aa16c6e164799a31bdbe56af85105feddfe09fd99c418601ab09bd65",
-          "sha256": "cdca61179b205971e4004bc3eb41d00f6bc7760ffaab2d604f8c9bf30fde2777",
-          "sha1": "42259e92d2327d2d392049d2d7c50789008e8a8a",
-          "md5": "28bb211184278e12d50acf06420022ad"
+          "size": 9344,
+          "sha512": "47f1072aa84c6d6156fb95e6bb0ee570a6aec79364bc5268a38f7e0f8be821debf7ee738a5a08dc67a0b1ac0dfd517b57b6f80b534907af5d7f2c5c0ebb6c979",
+          "sha256": "e5db0812415aea432bd4d579f2e47283ea82b832850d8385fb1d8771c7249124",
+          "sha1": "75175d06e27ab882f757b9a3a03f53226492d899",
+          "md5": "303771e0b48ef6175c63691670f20844"
         }
       ]
     },
@@ -247,10 +247,10 @@
           "name": "composeApp.kotlin_resources.zip",
           "url": "poc-sdk-0.2.0-kotlin_resources.kotlin_resources.zip",
           "size": 1268,
-          "sha512": "43887700a2fc957e9e03e5dc4cb36c0a0606ea9ed52d49b60fdee12200bf54164cafbe6086f40231f90325e6571687003d4e74eb20445d8990be690be47eba97",
-          "sha256": "5c5277ee750cb490323f1802095aee842221e5d19672402c21afb4496dd4b4dd",
-          "sha1": "cf9e1b1e680d86159fd65c3e9da57c43feb8ddfa",
-          "md5": "a6c8b0146a98f16399d44e0c66fd88d9"
+          "sha512": "5917a0ba60c97afc607dff5b8fa2a39436b8e2d4f5899034177d0033d2e54cb02cdc0dc280b9bb36988c8a66f0fe2d47f13adc5f5f644e32334b6178d5b69d09",
+          "sha256": "d89d4d37d0a8849120d5d6cb8570afe569fc371995fdf09cc6721802e9321ed5",
+          "sha1": "f6cc76ee39141090dd63273697108be070228629",
+          "md5": "8b776c0cfaa8cddb3d6152a62928373d"
         }
       ]
     },
@@ -353,11 +353,11 @@
         {
           "name": "composeApp-iosarm64-metadata.jar",
           "url": "poc-sdk-0.2.0-metadata.jar",
-          "size": 2697,
-          "sha512": "d2a79e1b06ef18a55dec0bbca3684306add3bfc464d62960348126c771cd5ed665649944aa807b2381fd29f08f2eff2621df72035a519ff6b6f852ed0e89e66c",
-          "sha256": "25dd3a5cd51730a93a68f29cae27de8d7a97ddf807e00f2a055db78500a6ab64",
-          "sha1": "3c2df73fb8b8fd0e22bb1c86134f649a6866ff12",
-          "md5": "9fdec62016b3449ccc81cefc741eb920"
+          "size": 2353,
+          "sha512": "ced44e820e0c6ee63f42d18c1f97d5d6f3b8e4b220e5d40ae5b3bd3f6be07ad9a1380a0b038e30a952593da0deb52943698ea6a42a6e00ad43e892da9e9a6f1b",
+          "sha256": "2101a41c262e8e186149abf37b018fd5bdf05987d04d20f0220c1c3afc2385e9",
+          "sha1": "f8df9ec1f60f881d38739ecddfdb9824928182ab",
+          "md5": "41f2c1de547bcda2d6c8b52d5d5e224d"
         }
       ]
     }

@@ -1,0 +1,8 @@
+framework module "POC" {
+    umbrella header "POC.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}

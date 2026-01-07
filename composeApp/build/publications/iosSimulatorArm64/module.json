@@ -114,11 +114,11 @@
         {
           "name": "composeApp-iosSimulatorArm64Main.klib",
           "url": "poc-sdk-0.2.0.klib",
-          "size": 55924,
-          "sha512": "07116561a917decbe25737e378a6b458bb752363d961fbf7d1972a3912ccbab5a3ea6a326828bb5f9ce543b0d999b105f11f06ab9510a7435c37d6f83fdcf60e",
-          "sha256": "5a8d289e0cc8fc6b39ba80cb4434bafac0bbc70b3526fd30cd1fbfbf3e438c8f",
-          "sha1": "bd28e017e9364a107b7f51d547b654b7ec1eb6a8",
-          "md5": "830c60f0dea79a432b18a58bd6cb6b4c"
+          "size": 52319,
+          "sha512": "e47aa656c733835c54fcef218816e045e156f8bd1ef10bc4ce64e719dd7722362657649d969f1474087b452bc298fa9535c59e88cfbe5ca219d22eaf8c974b57",
+          "sha256": "8f486e1ad4e4e191931ed785d16515b33d73f23257a7f18db24558af5ea1b3ea",
+          "sha1": "a05aee102e6c52a12f84978f8c45fefde2446c92",
+          "md5": "a713d9017a0339577337601f342ce8fd"
         }
       ]
     },
@@ -137,11 +137,11 @@
         {
           "name": "composeApp-iossimulatorarm64-sources.jar",
           "url": "poc-sdk-0.2.0-sources.jar",
-          "size": 9893,
-          "sha512": "8a58415852f6363a7ce760af105997f96215a8f347c483d406b2d124952ea8aaa36a0ee7a6be2800f1d9b902e1036f036d9b3832a8016b4d14ff8c4a703e958f",
-          "sha256": "1fab7bc600da1aa393d3b41f56fa37a13c3c315ab9297812ac7290018141ee59",
-          "sha1": "4638c4543a2043280cb9ba094903737cad1430cf",
-          "md5": "03c4ac99ec79a812d8303e1394f555f2"
+          "size": 9452,
+          "sha512": "27443adba0bdc77fcededb07eba0bebbfd1268b670dbeb470dfdfee6e65b1dd2e5d761e2f3557a94dd0fe0e755a1f20d589f558856387b5cadf2693317f1aa81",
+          "sha256": "df10f2301a6be24d83c2e79fa0a84be14da314c01a46d3f81e5cbb29a0eb3dce",
+          "sha1": "a89910a8520701815828e978cbfde108af5269ea",
+          "md5": "0b72df8baee26bd093fa0e075bc1e05f"
         }
       ]
     },
@@ -247,10 +247,10 @@
           "name": "composeApp.kotlin_resources.zip",
           "url": "poc-sdk-0.2.0-kotlin_resources.kotlin_resources.zip",
           "size": 1268,
-          "sha512": "43887700a2fc957e9e03e5dc4cb36c0a0606ea9ed52d49b60fdee12200bf54164cafbe6086f40231f90325e6571687003d4e74eb20445d8990be690be47eba97",
-          "sha256": "5c5277ee750cb490323f1802095aee842221e5d19672402c21afb4496dd4b4dd",
-          "sha1": "cf9e1b1e680d86159fd65c3e9da57c43feb8ddfa",
-          "md5": "a6c8b0146a98f16399d44e0c66fd88d9"
+          "sha512": "5917a0ba60c97afc607dff5b8fa2a39436b8e2d4f5899034177d0033d2e54cb02cdc0dc280b9bb36988c8a66f0fe2d47f13adc5f5f644e32334b6178d5b69d09",
+          "sha256": "d89d4d37d0a8849120d5d6cb8570afe569fc371995fdf09cc6721802e9321ed5",
+          "sha1": "f6cc76ee39141090dd63273697108be070228629",
+          "md5": "8b776c0cfaa8cddb3d6152a62928373d"
         }
       ]
     },
@@ -353,11 +353,11 @@
         {
           "name": "composeApp-iossimulatorarm64-metadata.jar",
           "url": "poc-sdk-0.2.0-metadata.jar",
-          "size": 2697,
-          "sha512": "d2a79e1b06ef18a55dec0bbca3684306add3bfc464d62960348126c771cd5ed665649944aa807b2381fd29f08f2eff2621df72035a519ff6b6f852ed0e89e66c",
-          "sha256": "25dd3a5cd51730a93a68f29cae27de8d7a97ddf807e00f2a055db78500a6ab64",
-          "sha1": "3c2df73fb8b8fd0e22bb1c86134f649a6866ff12",
-          "md5": "9fdec62016b3449ccc81cefc741eb920"
+          "size": 2353,
+          "sha512": "ced44e820e0c6ee63f42d18c1f97d5d6f3b8e4b220e5d40ae5b3bd3f6be07ad9a1380a0b038e30a952593da0deb52943698ea6a42a6e00ad43e892da9e9a6f1b",
+          "sha256": "2101a41c262e8e186149abf37b018fd5bdf05987d04d20f0220c1c3afc2385e9",
+          "sha1": "f8df9ec1f60f881d38739ecddfdb9824928182ab",
+          "md5": "41f2c1de547bcda2d6c8b52d5d5e224d"
         }
       ]
     }

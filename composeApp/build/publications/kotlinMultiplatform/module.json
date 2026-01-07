@@ -112,11 +112,11 @@
         {
           "name": "composeApp-metadata.jar",
           "url": "poc-sdk-0.2.0.jar",
-          "size": 10632,
-          "sha512": "0e1122fcc9979ab3020d91bcad5fb19d3321a5b4729e09fa5f73d5d0fcb437f31e2025765ca04120e8b7feeaa52fa9eeb2ee4c3e03d2181febe7a968eab7f624",
-          "sha256": "ce0a733941f9b41af0dd09f136f56d21af4821a82a8a03212f34dc8c39cff931",
-          "sha1": "9ab2a3824942a77baa3e8f89a5198fd1cd302e8c",
-          "md5": "7479b55734532d8c570bad99b4577155"
+          "size": 10391,
+          "sha512": "2852a54bfd9ed9aca3ec2f699e06127314dedf7abad3e1895bafbb857e235e15d315ca7c9504f5d1e033ce979f3729b9d48f6fea9e4c84dc0ce718cf4fa765ba",
+          "sha256": "31d6139d2ac6e2b3bc28301e92303a089796505549c4e676ce0e50564cde0e16",
+          "sha1": "fc02bbf362585317a76e63bde4b6d35469b0a26a",
+          "md5": "eaec8a44a02d3c39ab55baa02b08a5f5"
         }
       ]
     },
@@ -134,11 +134,11 @@
         {
           "name": "composeApp-kotlin-sources.jar",
           "url": "poc-sdk-0.2.0-sources.jar",
-          "size": 8533,
-          "sha512": "e7812ea5ebc1836b7d24075d576b97717c36374cf0d2ff0dfa0584547b1d076f7026e3a1bce9b53ebe734c2b873b051143fe86c9ed1217d06a19faea3c740918",
-          "sha256": "4f915151eb8516062533f94f22cbfd60d8b1a7a22d9a26a6e0e06f6521669d3d",
-          "sha1": "1cf5bec94d9dd671319789ebd5eac5408ecccb93",
-          "md5": "77a17f0d631c0f2def5a156d6dbae586"
+          "size": 8092,
+          "sha512": "e84f9ad847e86cd2958ac32380e35bd6403b6eb37ad7bb03c98f82b99433fba890f020ca2813023b255e50eb28f28c91a857af16f383350ecc93c4f3fd49e93a",
+          "sha256": "eeece8c06b816f014181fd2f37d499c0faf17aab62749629e9f286a827b4e01b",
+          "sha1": "09704a5cb503ff1ae6deef7e32d1fc3f7cd7f2db",
+          "md5": "9070f6ad6b2102e4fc07e968e347692a"
         }
       ]
     },
