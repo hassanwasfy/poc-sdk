@@ -3,7 +3,7 @@
   "component": {
     "group": "com.hwasfy",
     "module": "poc-sdk",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -125,7 +125,7 @@
       "files": [
         {
           "name": "composeApp-metadata.jar",
-          "url": "poc-sdk-0.1.0.jar",
+          "url": "poc-sdk-0.2.0.jar",
           "size": 10663,
           "sha512": "7472ab2bb82097990a6b256b347295e732134ee0a905df30020cf6e0a1060344d3a0be49710d0391dcdf528236db1c797f3ee2e1c4f9596ed0a1e0ae448f3436",
           "sha256": "6609dd09d5aa037ca7b45bda6ebf70caec39c30e801009933d98234c7522d948",
@@ -147,7 +147,7 @@
       "files": [
         {
           "name": "composeApp-kotlin-sources.jar",
-          "url": "poc-sdk-0.1.0-sources.jar",
+          "url": "poc-sdk-0.2.0-sources.jar",
           "size": 8533,
           "sha512": "e7812ea5ebc1836b7d24075d576b97717c36374cf0d2ff0dfa0584547b1d076f7026e3a1bce9b53ebe734c2b873b051143fe86c9ed1217d06a19faea3c740918",
           "sha256": "4f915151eb8516062533f94f22cbfd60d8b1a7a22d9a26a6e0e06f6521669d3d",
@@ -166,10 +166,10 @@
         "org.jetbrains.kotlin.platform.type": "jvm"
       },
       "available-at": {
-        "url": "../../poc-sdk/0.1.0/poc-sdk-0.1.0.module",
+        "url": "../../poc-sdk/0.2.0/poc-sdk-0.2.0.module",
         "group": "com.hwasfy",
         "module": "poc-sdk",
-        "version": "0.1.0"
+        "version": "0.2.0"
       }
     },
     {
@@ -182,10 +182,10 @@
         "org.jetbrains.kotlin.platform.type": "jvm"
       },
       "available-at": {
-        "url": "../../poc-sdk/0.1.0/poc-sdk-0.1.0.module",
+        "url": "../../poc-sdk/0.2.0/poc-sdk-0.2.0.module",
         "group": "com.hwasfy",
         "module": "poc-sdk",
-        "version": "0.1.0"
+        "version": "0.2.0"
       }
     },
     {
@@ -200,10 +200,10 @@
         "org.jetbrains.kotlin.platform.type": "jvm"
       },
       "available-at": {
-        "url": "../../poc-sdk/0.1.0/poc-sdk-0.1.0.module",
+        "url": "../../poc-sdk/0.2.0/poc-sdk-0.2.0.module",
         "group": "com.hwasfy",
         "module": "poc-sdk",
-        "version": "0.1.0"
+        "version": "0.2.0"
       }
     },
     {
@@ -216,10 +216,10 @@
         "org.jetbrains.kotlin.platform.type": "native"
       },
       "available-at": {
-        "url": "../../poc-sdk/0.1.0/poc-sdk-0.1.0.module",
+        "url": "../../poc-sdk/0.2.0/poc-sdk-0.2.0.module",
         "group": "com.hwasfy",
         "module": "poc-sdk",
-        "version": "0.1.0"
+        "version": "0.2.0"
       }
     },
     {
@@ -234,10 +234,10 @@
         "org.jetbrains.kotlin.platform.type": "native"
       },
       "available-at": {
-        "url": "../../poc-sdk/0.1.0/poc-sdk-0.1.0.module",
+        "url": "../../poc-sdk/0.2.0/poc-sdk-0.2.0.module",
         "group": "com.hwasfy",
         "module": "poc-sdk",
-        "version": "0.1.0"
+        "version": "0.2.0"
       }
     },
     {
@@ -252,10 +252,10 @@
         "org.jetbrains.kotlin.platform.type": "native"
       },
       "available-at": {
-        "url": "../../poc-sdk/0.1.0/poc-sdk-0.1.0.module",
+        "url": "../../poc-sdk/0.2.0/poc-sdk-0.2.0.module",
         "group": "com.hwasfy",
         "module": "poc-sdk",
-        "version": "0.1.0"
+        "version": "0.2.0"
       }
     },
     {
@@ -268,10 +268,10 @@
         "org.jetbrains.kotlin.platform.type": "native"
       },
       "available-at": {
-        "url": "../../poc-sdk/0.1.0/poc-sdk-0.1.0.module",
+        "url": "../../poc-sdk/0.2.0/poc-sdk-0.2.0.module",
         "group": "com.hwasfy",
         "module": "poc-sdk",
-        "version": "0.1.0"
+        "version": "0.2.0"
       }
     },
     {
@@ -284,10 +284,10 @@
         "org.jetbrains.kotlin.platform.type": "native"
       },
       "available-at": {
-        "url": "../../poc-sdk/0.1.0/poc-sdk-0.1.0.module",
+        "url": "../../poc-sdk/0.2.0/poc-sdk-0.2.0.module",
         "group": "com.hwasfy",
         "module": "poc-sdk",
-        "version": "0.1.0"
+        "version": "0.2.0"
       }
     },
     {
@@ -302,10 +302,10 @@
         "org.jetbrains.kotlin.platform.type": "native"
       },
       "available-at": {
-        "url": "../../poc-sdk/0.1.0/poc-sdk-0.1.0.module",
+        "url": "../../poc-sdk/0.2.0/poc-sdk-0.2.0.module",
         "group": "com.hwasfy",
         "module": "poc-sdk",
-        "version": "0.1.0"
+        "version": "0.2.0"
       }
     },
     {
@@ -320,10 +320,10 @@
         "org.jetbrains.kotlin.platform.type": "native"
       },
       "available-at": {
-        "url": "../../poc-sdk/0.1.0/poc-sdk-0.1.0.module",
+        "url": "../../poc-sdk/0.2.0/poc-sdk-0.2.0.module",
         "group": "com.hwasfy",
         "module": "poc-sdk",
-        "version": "0.1.0"
+        "version": "0.2.0"
       }
     },
     {
@@ -336,10 +336,10 @@
         "org.jetbrains.kotlin.platform.type": "native"
       },
       "available-at": {
-        "url": "../../poc-sdk/0.1.0/poc-sdk-0.1.0.module",
+        "url": "../../poc-sdk/0.2.0/poc-sdk-0.2.0.module",
         "group": "com.hwasfy",
         "module": "poc-sdk",
-        "version": "0.1.0"
+        "version": "0.2.0"
       }
     }
   ]

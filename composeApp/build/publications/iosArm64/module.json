@@ -1,10 +1,10 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "url": "../../poc-sdk/0.1.0/poc-sdk-0.1.0.module",
+    "url": "../../poc-sdk/0.2.0/poc-sdk-0.2.0.module",
     "group": "com.hwasfy",
     "module": "poc-sdk",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -127,7 +127,7 @@
       "files": [
         {
           "name": "composeApp-iosArm64Main.klib",
-          "url": "poc-sdk-0.1.0.klib",
+          "url": "poc-sdk-0.2.0.klib",
           "size": 55859,
           "sha512": "b65deeb177f2dfbb3ffe5b64b22ec199c16cb53a07b7953c6a294676973bdb2e60952384692e92be06258f48a0433381fd33c597e0b1bbaadda961e182a8390e",
           "sha256": "186fd4bf9b3da1557db1d77d35e6fce1c231c210906abe2e4e22f31b52be2931",
@@ -150,7 +150,7 @@
       "files": [
         {
           "name": "composeApp-iosarm64-sources.jar",
-          "url": "poc-sdk-0.1.0-sources.jar",
+          "url": "poc-sdk-0.2.0-sources.jar",
           "size": 9785,
           "sha512": "54d96550bdd6c1885a66385506df8ecf1797593d06c6cdcd2e63f37dfbadde45c4c074f7aa16c6e164799a31bdbe56af85105feddfe09fd99c418601ab09bd65",
           "sha256": "cdca61179b205971e4004bc3eb41d00f6bc7760ffaab2d604f8c9bf30fde2777",
@@ -273,7 +273,7 @@
       "files": [
         {
           "name": "composeApp.kotlin_resources.zip",
-          "url": "poc-sdk-0.1.0-kotlin_resources.kotlin_resources.zip",
+          "url": "poc-sdk-0.2.0-kotlin_resources.kotlin_resources.zip",
           "size": 1268,
           "sha512": "bafd3500098db40b19bd8b03fc3e05d62c0ab924fa78413445d164347af7db5997f0f18e8cca63f7648589a8af7726162ff134c73d96440c6f2d537612c91319",
           "sha256": "1487c142b4b64d22aa794c27f62cf3ae718d62f9d5e3e4c6d74a0ac77f307ea7",
@@ -394,7 +394,7 @@
       "files": [
         {
           "name": "composeApp-iosarm64-metadata.jar",
-          "url": "poc-sdk-0.1.0-metadata.jar",
+          "url": "poc-sdk-0.2.0-metadata.jar",
           "size": 2697,
           "sha512": "667dc472c1a9c613605a830b06ee645328380c22bd78c6d56d244e2aafb3a97ff4bfe154ec169e7774a321df991d3a8ef3bd7a15b12d14c26b6b040a1767e9a0",
           "sha256": "aa64fc4bb318d0214ddbd2f4d92e97c935b20f6942925c565511ef9402889723",
