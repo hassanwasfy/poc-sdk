@@ -1,0 +1,207 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../poc-sdk/0.1.0/poc-sdk-0.1.0.module",
+    "group": "com.hwasfy",
+    "module": "poc-sdk",
+    "version": "0.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "androidApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "android",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.3.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "composeApp.aar",
+          "url": "poc-sdk-0.1.0.aar",
+          "size": 52916,
+          "sha512": "d55d9e37f4a63663b82ec1546e5edceb047ae67e48e95bb18d2906c686eb090c729a62de144839f3a80ac44866136b46f850f39fd40ca613af4c95100c00820b",
+          "sha256": "a3adf644ad2e1a620ce8ec7bbe4ea66ac3034e4fa7238f11c212f5c891e2b2c5",
+          "sha1": "f5e117fb9b6e15feb07baeef5b92cb4701257041",
+          "md5": "e84a6e47e33d3516b169ae39fd67d7c3"
+        }
+      ]
+    },
+    {
+      "name": "androidRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "android",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.3.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.ui",
+          "module": "ui-tooling-preview",
+          "version": {
+            "requires": "1.9.3"
+          }
+        },
+        {
+          "group": "androidx.activity",
+          "module": "activity-compose",
+          "version": {
+            "requires": "1.12.2"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-okhttp",
+          "version": {
+            "requires": "2.3.7"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.runtime",
+          "module": "runtime",
+          "version": {
+            "requires": "1.9.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.foundation",
+          "module": "foundation",
+          "version": {
+            "requires": "1.9.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.material3",
+          "module": "material3",
+          "version": {
+            "requires": "1.9.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.ui",
+          "module": "ui",
+          "version": {
+            "requires": "1.9.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.components",
+          "module": "components-resources",
+          "version": {
+            "requires": "1.9.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.components",
+          "module": "components-ui-tooling-preview",
+          "version": {
+            "requires": "1.9.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.androidx.lifecycle",
+          "module": "lifecycle-viewmodel-compose",
+          "version": {
+            "requires": "2.9.6"
+          }
+        },
+        {
+          "group": "org.jetbrains.androidx.lifecycle",
+          "module": "lifecycle-runtime-compose",
+          "version": {
+            "requires": "2.9.6"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-core",
+          "version": {
+            "requires": "2.3.7"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-content-negotiation",
+          "version": {
+            "requires": "2.3.7"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-serialization-kotlinx-json",
+          "version": {
+            "requires": "2.3.7"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-serialization-json",
+          "version": {
+            "requires": "1.6.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "composeApp.aar",
+          "url": "poc-sdk-0.1.0.aar",
+          "size": 52916,
+          "sha512": "d55d9e37f4a63663b82ec1546e5edceb047ae67e48e95bb18d2906c686eb090c729a62de144839f3a80ac44866136b46f850f39fd40ca613af4c95100c00820b",
+          "sha256": "a3adf644ad2e1a620ce8ec7bbe4ea66ac3034e4fa7238f11c212f5c891e2b2c5",
+          "sha1": "f5e117fb9b6e15feb07baeef5b92cb4701257041",
+          "md5": "e84a6e47e33d3516b169ae39fd67d7c3"
+        }
+      ]
+    },
+    {
+      "name": "androidSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "android",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "composeApp-android-sources.jar",
+          "url": "poc-sdk-0.1.0-sources.jar",
+          "size": 9849,
+          "sha512": "598988007503ee98e701a01f18a4e5a6a9c8ee48f7b0a34d5ead7c10193164d073f7f1c03a4832dd0beb84a5015051524dece0373222300e96624b043c3d1f9e",
+          "sha256": "cbcdce72648bb3a1f5d686e0d1631ac9dc7c07616377aa68a2f763aafdc375a6",
+          "sha1": "7afa712cebbaa2c47758d943d64217620adfb527",
+          "md5": "ec3d7513426afc79c3ec372e605abc07"
+        }
+      ]
+    }
+  ]
+}

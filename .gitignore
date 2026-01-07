@@ -5,6 +5,13 @@
 **/build/reports/
 **/build/classes/
 **/build/generated/
+**/build/tmp/
+**/build/kotlin-multiplatform-resources/
+**/build/intermediates/
+**/build/kotlinTransformedMetadataLibraries/
+**/build/kotlin/compileAndroidMain/
+**/build/kotlin/
+**/build/kotlin/compileCommonMainKotlinMetadata/
 **/build/konan.txt
 xcuserdata
 !src/**/build/
