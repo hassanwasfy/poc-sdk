@@ -1,7 +1,11 @@
 *.iml
 .kotlin
 .gradle
-**/build/
+**/build/bin/
+**/build/reports/
+**/build/classes/
+**/build/generated/
+**/build/konan.txt
 xcuserdata
 !src/**/build/
 local.properties
